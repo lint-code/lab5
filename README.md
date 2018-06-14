@@ -1,5 +1,7 @@
-﻿# 设置Activity
+＃第五次实验
 
-## 运行效果
 
-![](https://github.com/hsq54820/Setting/blob/master/pic/1.png)
+<img src="https://github.com/lintao2018/lab5/blob/master/images/1.png" height="400" alt="Screenshot"/>
+
+
+
